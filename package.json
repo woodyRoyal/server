@@ -1,0 +1,15 @@
+{
+  "name": "server",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/woodyRoyal/server.git",
+  "author": "wangp <wangp@2345.com>",
+  "license": "MIT",
+  "dependencies": {
+    "global": "^4.4.0",
+    "ts-node-dev": "^1.0.0-pre.44"
+  },
+  "devDependencies": {
+    "@types/node": "^12.12.6"
+  }
+}
